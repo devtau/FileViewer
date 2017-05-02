@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FileViewer</string>
+    <string name="start_for_image">Start for image</string>
+    <string name="start_for_video">Start for video</string>
+    <string name="share_key">Open with</string>
+    <string name="edit_profile_save">Save</string>
+    <string name="file_saved_msg">File saved at: %s</string>
+    <string name="invalid_file_path_with_type" formatted="false">Error when opening file. Make sure file at %s exist and is %s"</string>
+    <string name="invalid_file_path" formatted="false">Error when opening file. Make sure file at %s exist"</string>
+    <string name="no_app_can_receive_this_file">No app can receive this file</string>
+
+    <string name="permission_explanation_external_storage">To save a key to a file, allow access to the file system</string>
+    <string name="permission_explanation_external_storage_for_file">To save a file, allow access to the file system</string>
+    <string name="permission_explanation_phone_state">For automatic call hold, allow access to call status</string>
+    <string name="permission_explanation_read_contacts">For synchronizing with this app you should allow access to your phonebook</string>
+    <string name="permission_explanation_record_audio">Audio record should be allowed for a voice calls</string>
+    <string name="permissions_not_granted">The application did not receive the required permissions</string>
+    <string name="permission_not_granted_external_storage">Export to file is not possible: the application did not receive the required permission</string>
+    <string name="permission_not_granted_phone_state">Help in calls is not possible: the application did not receive the required permission</string>
+    <string name="permission_not_granted_read_contacts">Contacts synchronization is unavailable: the application did not receive the required permission</string>
+    <string name="permission_not_granted_record_audio">Voice calls disabled: the application did not receive the required permission</string>
+</resources>
